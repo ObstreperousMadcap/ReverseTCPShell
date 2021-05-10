@@ -1,0 +1,6 @@
+Info-OS
+Info-IP
+Info-AV
+Screenshot
+Portscan
+exit
