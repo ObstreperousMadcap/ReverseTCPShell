@@ -1,8 +1,8 @@
 #
-# ReverseTCPPowerShell - Used for demonstrating EDR products. 
+# ReverseTCPShell - Used for demonstrating EDR products. 
 #
 # Copyright(C) 2021 Michael Logan, ObstreperousMadcap@gmail.com
-# Repo: https://github.com/ObstreperousMadcap/villainius
+# Repo: https://github.com/ObstreperousMadcap/ReverseTCPShell
 #
 # This program is free software : you can redistribute it and /or modify
 # it under the terms of the GNU General Public License as published by
