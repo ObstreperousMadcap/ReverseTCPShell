@@ -1,5 +1,5 @@
 #
-# ReverseTCPPowerShell - Use for demonstrating EDR products. 
+# ReverseTCPPowerShell - Used for demonstrating EDR products. 
 #
 # Copyright(C) 2021 Michael Logan, ObstreperousMadcap@gmail.com
 # Repo: https://github.com/ObstreperousMadcap/villainius

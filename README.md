@@ -1,3 +1,3 @@
 # ReverseTCPShell
- May be used for MVISION EDR demonstrations, proofs-of-concept, training, events, etc.
+ Use for demonstrating EDR products. See source code for detailed instructions.
  
